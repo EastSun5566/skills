@@ -2,6 +2,8 @@
 
 ## web-interface-guidelines
 
+[![hackmd-github-sync-badge](https://hackmd.io/4bh1tEFMT_6atgT8r534oA/badge)](https://hackmd.io/4bh1tEFMT_6atgT8r534oA)
+
 > Modernized version based on <https://interfaces.rauno.me/>
 
 Review and improve web interfaces using practical modern web interface guidelines.
