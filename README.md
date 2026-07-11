@@ -8,13 +8,13 @@
 
 Review and improve web interfaces using practical modern web interface guidelines.
 
-## Install
+### Install
 
 ```bash
 npx skills add EastSun5566/skills --skill web-interface-guidelines
 ```
 
-## Usage
+### Usage
 
 ```txt
 Review and improve this UI according to the web interface guidelines.
@@ -22,4 +22,26 @@ Review and improve this UI according to the web interface guidelines.
 
 ```txt
 Check this form for accessibility, keyboard behavior, loading states, and error states.
+```
+
+## nodejs-docker-best-practices
+
+> Based on the official [Node.js Docker image best practices](https://github.com/nodejs/docker-node/blob/main/docs/BestPractices.md) and [Docker Node.js guide](https://docs.docker.com/guides/nodejs/).
+
+Create and review production Dockerfiles for Node.js applications.
+
+### Install
+
+```bash
+npx skills add EastSun5566/skills --skill nodejs-docker-best-practices
+```
+
+### Usage
+
+```txt
+Review this Node.js Dockerfile and suggest the smallest safe improvements.
+```
+
+```txt
+Create a production Dockerfile for this Node.js application.
 ```
